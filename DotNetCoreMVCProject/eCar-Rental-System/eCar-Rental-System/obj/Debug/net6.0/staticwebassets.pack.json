@@ -1,0 +1,233 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\2698ff47-f8b8-4cb2-b165-39e052b7ea3d_car2.jpg",
+      "PackagePath": "staticwebassets\\images\\2698ff47-f8b8-4cb2-b165-39e052b7ea3d_car2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\2d649347-e7a3-44c8-b5ff-cb64db91d994_tiago-exterior-left-rear-three-quarter-8.webp",
+      "PackagePath": "staticwebassets\\images\\2d649347-e7a3-44c8-b5ff-cb64db91d994_tiago-exterior-left-rear-three-quarter-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\30e04339-8033-46be-a4a7-a9fbf1ca51fa_tiago-exterior-left-rear-three-quarter-8.webp",
+      "PackagePath": "staticwebassets\\images\\30e04339-8033-46be-a4a7-a9fbf1ca51fa_tiago-exterior-left-rear-three-quarter-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\39c5d17e-964a-4c54-8b26-bdd041789363_tiago-exterior-left-rear-three-quarter-8.webp",
+      "PackagePath": "staticwebassets\\images\\39c5d17e-964a-4c54-8b26-bdd041789363_tiago-exterior-left-rear-three-quarter-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\7010f601-a07a-4305-afbb-4a509e7aaea0_tiago-exterior-left-rear-three-quarter-8.webp",
+      "PackagePath": "staticwebassets\\images\\7010f601-a07a-4305-afbb-4a509e7aaea0_tiago-exterior-left-rear-three-quarter-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\72d3d13c-c29f-4ce4-b285-421d696b2d68_car2.jpg",
+      "PackagePath": "staticwebassets\\images\\72d3d13c-c29f-4ce4-b285-421d696b2d68_car2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\8323b460-b389-4b71-811b-7899438a0438_car1.jpg",
+      "PackagePath": "staticwebassets\\images\\8323b460-b389-4b71-811b-7899438a0438_car1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\9f42ccee-08be-422b-b244-c202ec3ff11f_images.jpeg",
+      "PackagePath": "staticwebassets\\images\\9f42ccee-08be-422b-b244-c202ec3ff11f_images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\b889c9cc-0503-40fc-9090-ee48f8aa29ce_download (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\b889c9cc-0503-40fc-9090-ee48f8aa29ce_download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\c49e10f6-8ac9-4af0-bafe-59a8ba127f38_download.jpg",
+      "PackagePath": "staticwebassets\\images\\c49e10f6-8ac9-4af0-bafe-59a8ba127f38_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\cda00809-08d4-4f5c-bd07-b4d31001fcdf_tiago-exterior-left-rear-three-quarter-8.webp",
+      "PackagePath": "staticwebassets\\images\\cda00809-08d4-4f5c-bd07-b4d31001fcdf_tiago-exterior-left-rear-three-quarter-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\d0f299c8-0c52-4559-982c-f1e3b8205696_tavera.jfif",
+      "PackagePath": "staticwebassets\\images\\d0f299c8-0c52-4559-982c-f1e3b8205696_tavera.jfif"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\e06dc011-347f-4aa8-a059-8f5c20b09675_images (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\e06dc011-347f-4aa8-a059-8f5c20b09675_images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\e1b6a1c2-ba8d-4113-a0d0-a8748d57d5c3_swift_car.jfif",
+      "PackagePath": "staticwebassets\\images\\e1b6a1c2-ba8d-4113-a0d0-a8748d57d5c3_swift_car.jfif"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\fd062bb5-ea77-4c63-8516-7e73633bc299_tiago-exterior-left-rear-three-quarter-8.webp",
+      "PackagePath": "staticwebassets\\images\\fd062bb5-ea77-4c63-8516-7e73633bc299_tiago-exterior-left-rear-three-quarter-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\ff47bae9-ca8f-4fc9-8087-a089c0eb795e_download.jpg",
+      "PackagePath": "staticwebassets\\images\\ff47bae9-ca8f-4fc9-8087-a089c0eb795e_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\images\\rentacar.jpg",
+      "PackagePath": "staticwebassets\\images\\rentacar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\eCarRentalSystem_DotNetCoreMVC\\DotNetCoreMVCProject\\eCar-Rental-System\\eCar-Rental-System\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.eCar-Rental-System.props",
+      "PackagePath": "build\\eCar-Rental-System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.eCar-Rental-System.props",
+      "PackagePath": "buildMultiTargeting\\eCar-Rental-System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.eCar-Rental-System.props",
+      "PackagePath": "buildTransitive\\eCar-Rental-System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.eCar-Rental-System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
